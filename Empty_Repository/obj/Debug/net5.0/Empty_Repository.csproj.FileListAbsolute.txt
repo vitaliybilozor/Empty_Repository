@@ -1,0 +1,16 @@
+D:\Programs\Empty_Repository\Empty_Repository\bin\Debug\net5.0\Empty_Repository.exe
+D:\Programs\Empty_Repository\Empty_Repository\bin\Debug\net5.0\Empty_Repository.deps.json
+D:\Programs\Empty_Repository\Empty_Repository\bin\Debug\net5.0\Empty_Repository.runtimeconfig.json
+D:\Programs\Empty_Repository\Empty_Repository\bin\Debug\net5.0\Empty_Repository.runtimeconfig.dev.json
+D:\Programs\Empty_Repository\Empty_Repository\bin\Debug\net5.0\Empty_Repository.dll
+D:\Programs\Empty_Repository\Empty_Repository\bin\Debug\net5.0\ref\Empty_Repository.dll
+D:\Programs\Empty_Repository\Empty_Repository\bin\Debug\net5.0\Empty_Repository.pdb
+D:\Programs\Empty_Repository\Empty_Repository\obj\Debug\net5.0\Empty_Repository.csproj.AssemblyReference.cache
+D:\Programs\Empty_Repository\Empty_Repository\obj\Debug\net5.0\Empty_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Empty_Repository\Empty_Repository\obj\Debug\net5.0\Empty_Repository.AssemblyInfoInputs.cache
+D:\Programs\Empty_Repository\Empty_Repository\obj\Debug\net5.0\Empty_Repository.AssemblyInfo.cs
+D:\Programs\Empty_Repository\Empty_Repository\obj\Debug\net5.0\Empty_Repository.csproj.CoreCompileInputs.cache
+D:\Programs\Empty_Repository\Empty_Repository\obj\Debug\net5.0\Empty_Repository.dll
+D:\Programs\Empty_Repository\Empty_Repository\obj\Debug\net5.0\ref\Empty_Repository.dll
+D:\Programs\Empty_Repository\Empty_Repository\obj\Debug\net5.0\Empty_Repository.pdb
+D:\Programs\Empty_Repository\Empty_Repository\obj\Debug\net5.0\Empty_Repository.genruntimeconfig.cache
